@@ -7,7 +7,7 @@ This repository serves as the central place for:
 - Community feedback, questions, and ideas
 - Updates and coordination across all NearWyse projects
 
-💬 Join the conversation on the [Discussions tab](../../community)!
+💬 Join the conversation on the [Discussions tab](../../discussions)!
 
 ---
 
